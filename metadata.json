@@ -1,0 +1,6 @@
+{
+  "name": "Floating Screen Translator & Wikipedia Lookup",
+  "description": "On-screen floating assistant widget for instant translation, dictionary definitions, and Wikipedia knowledge lookup directly over reading screens.",
+  "requestFramePermissions": ["display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
